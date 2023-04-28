@@ -1,4 +1,4 @@
-[![MasterHead](https://zdblogs.zohocorp.com/creator/decode/sites/creator/decode/files/2020-12/Low-Code-Banner-1900x900-final-aw-01-1-1160x550.png)]
+![MasterHead](https://zdblogs.zohocorp.com/creator/decode/sites/creator/decode/files/2020-12/Low-Code-Banner-1900x900-final-aw-01-1-1160x550.png)
 <h1 align="center">Hi 👋, I'm Jhon Varon</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ahmetbaglan/ahmetbaglan/main/images/rick.gif">
